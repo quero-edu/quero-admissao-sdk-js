@@ -1,0 +1,37 @@
+{
+  "name": "@queroedu/quero-admissao-sdk",
+  "version": "0.0.1",
+  "description": "SDK JS para API de Admissões do Quero Bolsa",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quero-edu/quero-admissao-sdk-js.git"
+  },
+  "keywords": [
+    "quero-edu",
+    "api",
+    "sdk",
+    "engaged",
+    "node",
+    "js",
+    "javascript"
+  ],
+  "author": "Luca Chamecki Granato <luca.granato@engaged.com.br>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/quero-edu/quero-admissao-sdk-js/issues"
+  },
+  "homepage": "https://github.com/quero-edu/quero-admissao-sdk-js#readme",
+  "dependencies": {
+    "axios": "0.18.0",
+    "joi": "13.6.0",
+    "lodash": "4.17.10"
+  },
+  "devDependencies": {
+    "eslint": "^5.4.0",
+    "mocha": "^5.2.0"
+  }
+}
