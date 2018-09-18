@@ -7,7 +7,7 @@ SDK JS para API de Admissões do Quero Bolsa
 Using npm
 
 ```bash
-npm install quero-admissao-sdk
+npm install @queroedu/quero-admissao-sdk
 ```
 
 ### Running the tests
