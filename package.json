@@ -26,7 +26,7 @@
   },
   "homepage": "https://github.com/quero-edu/quero-admissao-sdk-js#readme",
   "dependencies": {
-    "axios": "0.18.0",
+    "axios": "0.18.1",
     "joi": "13.6.0",
     "lodash": "4.17.10"
   },
